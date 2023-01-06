@@ -54,9 +54,9 @@ Muligheter med integrasjonsverktøyene inkluderer:
 ---
 
 ## Andre Options
-Muligheten for å lage forskjellige pipelines for forskjellige applikasjoner eller komponenter, slik at du kan ha ulike bygg- og deployprosesser for ulike deler av koden din
-Muligheten for å lage ulike steg i en pipeline, f.eks. for å kjøre enheter- og integrasjonstester, lage en docker-image eller deploye koden til ulike miljøer
-Muligheten for å integrere Azure DevOps Pipelines med andre verktøy og tjenester, f.eks. for å få varsel om hendelser eller kjøre eksterne ver
-Muligheten for å se statistikk og overvåke pipelines i Azure DevOps Pipelines, f.eks. ved å se på bygg- og deployhistorikk, samle inn loggdata eller få varsel om feil
-Muligheten for å lage ulike tilgangsrettigheter og kontroller for å sikre at riktig personer kan gjøre endringer i pipelines og kode
-Muligheten for å bruke Azure DevOps Pipelines med ulike programmeringsspråk og plattformer, f.eks. Java, .NET, Python, Node.js, Android og iOS
+- Muligheten for å lage forskjellige pipelines for forskjellige applikasjoner eller komponenter, slik at du kan ha ulike bygg- og deployprosesser for ulike deler av koden din
+- Muligheten for å lage ulike steg i en pipeline, f.eks. for å kjøre enheter- og integrasjonstester, lage en docker-image eller deploye koden til ulike miljøer
+- Muligheten for å integrere Azure DevOps Pipelines med andre verktøy og tjenester, f.eks. for å få varsel om hendelser eller kjøre eksterne ver
+- Muligheten for å se statistikk og overvåke pipelines i Azure DevOps Pipelines, f.eks. ved å se på bygg- og deployhistorikk, samle inn loggdata eller få varsel om feil
+- Muligheten for å lage ulike tilgangsrettigheter og kontroller for å sikre at riktig personer kan gjøre endringer i pipelines og kode
+- Muligheten for å bruke Azure DevOps Pipelines med ulike programmeringsspråk og plattformer, f.eks. Java, .NET, Python, Node.js, Android og iOS
