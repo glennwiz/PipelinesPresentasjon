@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/195927/211021233-8ef0d041-a2cd-495a-ac6f-f55247725c7a.png)
+
+
 ## Azure DevOps Pipelines
 
 Azure DevOps Pipelines er en skybasert tjeneste som gir deg muligheten til å planlegge, spore, teste og deploye applikasjoner. Med Azure DevOps Pipelines har du verktøy for å administrere og automatisere kodeflyter, inkludert bygg, test og deploy.
