@@ -61,4 +61,9 @@ Muligheter med integrasjonsverktøyene inkluderer:
 - Muligheten for å lage ulike tilgangsrettigheter og kontroller for å sikre at riktig personer kan gjøre endringer i pipelines og kode
 - Muligheten for å bruke Azure DevOps Pipelines med ulike programmeringsspråk og plattformer, f.eks. Java, .NET, Python, Node.js, Android og iOS
 
+---
+
+En liten forklaring av oppsett. For og kunne gjøre det vi vil me pipelines må vi har på det nettverket som vi vil gjøre noe på, en Agent på innsiden som er connected opp mot vår devops. Dette går på port 80, så det er Agent på insiden som kontakter vår devops i azure ikke motsatt vei. Så tror det vil være relativt painless me tanke på null firewall oppsett hos kunder inn fra utsiden. Kan se issues på insiden vist server og netverk config er strikt på internal stuff. 
+
+
 ![image](https://user-images.githubusercontent.com/195927/211021233-8ef0d041-a2cd-495a-ac6f-f55247725c7a.png)
