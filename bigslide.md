@@ -73,4 +73,4 @@ Så tror det vil være relativt painless me tanke på null firewall oppsett hos 
 
 ![image](https://user-images.githubusercontent.com/195927/211021233-8ef0d041-a2cd-495a-ac6f-f55247725c7a.png)
 
-Demo tid.
+Demo og devops tid.
