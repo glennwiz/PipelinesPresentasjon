@@ -63,7 +63,7 @@ Muligheter med integrasjonsverktøyene inkluderer:
 
 ---
 
-En liten forklaring av oppsett.
+En liten forklaring av CD(Continuous Deployment) oppsett.
  
 For og kunne gjøre det vi vil me CD pipelines må vi har på det nettverket som vi vil gjøre noe på, en Agent på innsiden som er connected opp mot vår devops. 
 Dette går på port 80, så det er Agent på insiden som kontakter vår devops i azure ikke motsatt vei. 
